@@ -1,1 +1,32 @@
 ini kan soal nya memang terpisah, nanti comand nya pisah juga berartti?
+- Gunakan Java
+- Input dari STDIN
+- Output harus sesuai format
+- Jangan ubah struktur folder
+ ini kan soal nya memang terpisah, nanti comand nya pisah juga berartti?
+ coba kita comand untuk soal nomor 1
+ bagaimana langkah nya dari awal
+ dimana
+ saya ganti menjadi sepertti ini
+ maksud saya, saya akan menjawab satu per satu
+itukan sudah saya buatkan file soal1.java
+dan disana saya akan menjawab pertanyaan nomor 1
+ini asisten dosen yg bilang jadinya
+habis ini apalagi
+okay kita kerjakan lah dari awal lagi, di mulai dari nomor 1 
+itu if else nya bukan tentang input dan output pada soal yang saya berikan tadi?
+ini salah dman
+jadi ini gmna? langkah pertama mengatasi nya
+ini dibuat di bawah yang ini berarti?? soal 1 yang sebelumnya
+berarti ini di baris 28
+bawah penutup Soal 1, sebagai else if
+ini menjalankan nya kita blok dulu nya untuk jawababan soal 2?
+oh berarti di cmd nya aja pembeda yang mana soal 1 yang maana soal 2 ya?
+okay lanjut untuk soal 3
+lanjut soal 4 
+lanjut ke soal 5
+okay kita coba ulang command dari nomor 1 ya
+kalau gini berarti file nya salah ya?
+berhasil
+itu kenapa tadi kita saat command soal nomor 2 harus ketik cd..
+sedangkan di soal berikutnya tidak perlu 
